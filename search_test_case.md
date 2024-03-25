@@ -23,14 +23,14 @@
  **Test data**:
 
  *  Искомое слово - Selenium
- *  Адрес сайта - [yandex.ru](https://dzen.ru/?yredirect=true)
+ *  Адрес сайта - [yandex.ru](https://ya.ru/)
   
 #### Steps and expected result 
 
 
 | Steps           | Expected result  |
 |-----------------|-----------------|
-| 1. Открыть [сайт](https://dzen.ru/?yredirect=true) | Сайт корректно открывается и отображается |
+| 1. Открыть [сайт](https://ya.ru/) | Сайт корректно открывается и отображается |
 | 2. Кликнуть по поисковой строке | Курсор появился в поисковой |
 | 3 .Ввести искомое слово "Selenium" в поисковую строку | Введенные символы корректно отображаются, по мере ввода символов появляется suggestion list |
 | 4. Проверить, что слово "Selenium" появилось в suggestion list поиска  | "Selenium" появилось в suggestion list поиска |
